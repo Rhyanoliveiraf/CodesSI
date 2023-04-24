@@ -1,7 +1,6 @@
 # CodesSI
 
-1- Faça um programa que leia dois números inteiros e imprima a soma.
-2- Escreva um programa que calcule e imprima a área de um circulo raio r.
+1- Faça um programa que leia dois números inteiros e imprima a soma.2- Escreva um programa que calcule e imprima a área de um circulo raio r.
 3- Crie um programa que leia um número inteiro e imprima se ele é par ou ímpar.
 4- Escreva um programa que calcule e imprima a média aritmética de três números.
 5- Faça um programa que leia um número inteiro e imprima o seu antecessor e sucessor.
