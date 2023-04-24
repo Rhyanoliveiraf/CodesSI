@@ -1,4 +1,4 @@
-# CodigosSI
+# CodesSI
 
 1- Faça um programa que leia dois números inteiros e imprima a soma.
 2- Escreva um programa que calcule e imprima a área de um circulo raio r.
